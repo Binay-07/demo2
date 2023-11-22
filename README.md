@@ -1,4 +1,4 @@
 # demo2
 This is my second repositary
 <br>
-Author - Binay Kumar
+Author - Binay Kumar Swain
